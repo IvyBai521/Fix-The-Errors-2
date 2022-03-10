@@ -2,7 +2,7 @@
 # author: <group_name>
 
 # Create a directory called new_data
-mkdri new_data
+mkdir new_data
 
 # Create 5 empty files in the new_data directory
 # Call the files data1, data2, data3, data4, and data5
